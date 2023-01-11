@@ -1,5 +1,5 @@
-title = "Notre-Dame de Paris"
-baseURL = "https://gohugo-theme-ananke.pages.dev"
+title = "Hello world"
+baseURL = "https://steady-praline-b5e537.netlify.app"
 languageCode = "en-us"
 theme = "ananke"
 resourceDir = "../resources"
